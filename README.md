@@ -4,6 +4,9 @@ We will attempt to tackle the problem of trying to predict the price of Bitcoin 
 
 
  https://www.kaggle.com/c/bitcoin/data
+
  https://www.kaggle.com/mczielinski/bitcoin-historical-data
+
  https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
+
  https://www.kaggle.com/prasoonkottarathil/btcinusd
